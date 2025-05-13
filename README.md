@@ -1,3 +1,4 @@
+![screen](https://github.com/user-attachments/assets/3afdfbb2-6ed9-4271-a01c-6492d9a70e08)
 # sddm-maya-theme-scalable
  
 maya-scalable is a fork of the original theme that comes by default in the sddm package. 
