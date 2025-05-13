@@ -1,13 +1,13 @@
-#sddm-maya-theme-scalable
+# sddm-maya-theme-scalable
  
 maya-scalable is a fork of the original theme that comes by default in the sddm package. 
  
-###USAGE
+### USAGE
  - once you installed the sddm package you should have a folder in /usr/share/sddm/themes
  - head there and git copy this file
  - after that you need to copy default.conf file in /usr/lib/sddm/sddm.conf.d in /etc/ and name it sddm.conf
  - edit the sddm.conf file  and under the [Theme] tag set "Current=sddm-maya-theme-scalable" (or whatever you named the git copy directory)
  - To change the scale or colors edit the theme.conf located in the git copy directory
 
-###NOTES
+### NOTES
  - I've changed the original color palette for a more aggressive style
